@@ -3,7 +3,7 @@ Esta aplicacion hace que un bot que este aniadido como administrador en un grupo
 1 crear un bot con BotFather en el dispositivo con telegram
 2 almacenar el token(TOKEN_BOT) que te da BotFather en un lugar seguro eg. .env
 3 crear el grupo en telegram aniadiendo al bot creado
-4 darle permisos de administrador al bot
+4 darle permisos de administrador al bot dentro del grupo
 5 escribir algo en el grupo debe haber por lo menos un mensaje
 6 almacenar el id unico(CHAT_ID) del grupo en un lugar seguro eg. .env,  a travez de peticion post a https://api.telegram.org/bot<token>/getUpdates
 
